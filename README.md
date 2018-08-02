@@ -1,0 +1,2 @@
+# ego
+my first program
